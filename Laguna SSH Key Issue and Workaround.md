@@ -70,3 +70,6 @@ Now it’s time to check if you can ssh to the Laguna server without password.
 1. If the manual SSK key setup went well, you should see the following shell access from your browser.
     
     ![Screenshot 2025-09-15 at 3.30.39 PM.png](images/Screenshot_2025-09-15_at_3.30.39_PM.png)
+
+We've heard that the browser shell access is not working even after manually adding the SSH public key. Please use your terminal or Git Bash. 
+
